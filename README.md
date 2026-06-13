@@ -63,7 +63,7 @@ This **Weather App** is a modern, responsive web application that provides real-
 
 **Weather Display** | **Error State** 
 :-----------------:|:--------------:
-![Weather](images/Screenshot 2026-06-13 125317.png) | ![404](images/Screenshot 2026-06-13 125300.png)
+![Weather](images/2.png) | ![404](images/1.png)
 
 *🌅 Background images change dynamically based on the searched city*
 
